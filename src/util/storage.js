@@ -18,3 +18,6 @@ export function saveData(name, data) {
     localStorage.removeItem(name);
   }
 }
+
+
+// this is for localstorage functions like tokens saving into the localstorage or some data.

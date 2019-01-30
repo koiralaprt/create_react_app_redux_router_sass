@@ -9,7 +9,8 @@ import Container from './views/Container';
 
 class App extends Component {
   render() {
-    return (
+    return (<div>
+      
       <Provider store={store}>
         <Router>
           <Switch>
@@ -18,6 +19,7 @@ class App extends Component {
           </Switch>
         </Router>
       </Provider>
+      </div>
     );
   }
 }
