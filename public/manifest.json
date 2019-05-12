@@ -1,6 +1,6 @@
 {
-  "short_name": "DYRE",
-  "name": "DYRE Experience",
+  "short_name": "React",
+  "name": "React app",
   "icons": [
     {
       "src": "favicon.png",
